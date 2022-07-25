@@ -9,6 +9,9 @@
 ## babel
 - [babel 相关的一些配置](https://github.com/wlsyne/Blog/issues/18)
 
+## React
+- [React setState](https://github.com/wlsyne/Blog/issues/20)
+
 ## 基础之础中础
 - [正则表达式相关](https://github.com/wlsyne/Blog/issues/3)
 - [无用的知识又增加了：原型链、 instanceof 以及 new操作符](https://github.com/wlsyne/Blog/issues/5)
