@@ -24,6 +24,7 @@
 - [JavaScript 位操作符](https://github.com/wlsyne/Blog/issues/12)
 - [浏览器环境和和 Node 环境中的 eventLoop](https://github.com/wlsyne/Blog/issues/16)
 - [NodeJS 中的 commonJS 规范](https://github.com/wlsyne/Blog/issues/17)
+- [函数式编程中的组合函数](https://github.com/wlsyne/Blog/issues/25)
 
 ## 浏览器相关
 - [浏览器的多进程架构](https://github.com/wlsyne/Blog/issues/7)
