@@ -54,6 +54,7 @@
 - [webpack loader 的配置](https://github.com/wlsyne/Blog/issues/29)
 - [一些常用的 webpack plugin](https://github.com/wlsyne/Blog/issues/30)
 - [webpack Tree Shaking](https://github.com/wlsyne/Blog/issues/31)
+- [今天我们来see see webpack 打包过后生成的代码](https://github.com/wlsyne/Blog/issues/38)
 
 ## 翻译
 - [Tasks, microtasks, queues and schedules【译】](https://github.com/wlsyne/Blog/issues/4)
