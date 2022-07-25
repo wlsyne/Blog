@@ -12,6 +12,8 @@
 - [JavaScript 数据类型及基础数据类型详解](https://github.com/wlsyne/Blog/issues/6)
 - [浏览器的多进程架构](https://github.com/wlsyne/Blog/issues/7)
 - [CDN 原理](https://github.com/wlsyne/Blog/issues/8)
+- [talk talk HTTP 缓存](https://github.com/wlsyne/Blog/issues/9)
+- [XSS 攻击](https://github.com/wlsyne/Blog/issues/10)
 
 ## 翻译
 - [Tasks, microtasks, queues and schedules【译】](https://github.com/wlsyne/Blog/issues/4)
