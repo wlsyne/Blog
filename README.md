@@ -5,6 +5,7 @@
 
 ## Typescript
 - [tsconfig 的一些常见配置](https://github.com/wlsyne/Blog/issues/2)
+- [type-challenges 挑战实录](https://github.com/wlsyne/Blog/issues/22)
 
 ## babel
 - [babel 相关的一些配置](https://github.com/wlsyne/Blog/issues/18)
