@@ -15,11 +15,14 @@
 - [XSS 攻击](https://github.com/wlsyne/Blog/issues/10)
 - [实现一个 Promise](https://github.com/wlsyne/Blog/issues/11)
 - [JavaScript 位操作符](https://github.com/wlsyne/Blog/issues/12)
-- [Redux 源码解析](https://github.com/wlsyne/Blog/issues/13)
 
 ## 浏览器相关
 - [浏览器的多进程架构](https://github.com/wlsyne/Blog/issues/7)
 - [从 url 到页面的渲染](https://github.com/wlsyne/Blog/issues/14)
+- [关键渲染路径](https://github.com/wlsyne/Blog/issues/15)
+
+## 源码解析
+- [Redux 源码解析](https://github.com/wlsyne/Blog/issues/13)
 
 ## 翻译
 - [Tasks, microtasks, queues and schedules【译】](https://github.com/wlsyne/Blog/issues/4)
