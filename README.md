@@ -25,6 +25,7 @@
 - [浏览器的多进程架构](https://github.com/wlsyne/Blog/issues/7)
 - [从 url 到页面的渲染](https://github.com/wlsyne/Blog/issues/14)
 - [关键渲染路径](https://github.com/wlsyne/Blog/issues/15)
+- [JavaScript 代码是怎样被编译执行的](https://github.com/wlsyne/Blog/issues/19)
 
 ## 源码解析
 - [Redux 源码解析](https://github.com/wlsyne/Blog/issues/13)
