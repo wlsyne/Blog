@@ -9,6 +9,7 @@
 ## 基础之础中础
 - [正则表达式相关](https://github.com/wlsyne/Blog/issues/3)
 - [无用的知识又增加了：原型链、 instanceof 以及 new操作符](https://github.com/wlsyne/Blog/issues/5)
+- [JavaScript 数据类型及基础数据类型详解](https://github.com/wlsyne/Blog/issues/6)
 
 ## 翻译
 - [Tasks, microtasks, queues and schedules【译】](https://github.com/wlsyne/Blog/issues/4)
