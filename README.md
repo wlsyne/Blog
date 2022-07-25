@@ -34,5 +34,7 @@
 ## 源码解析
 - [Redux 源码解析](https://github.com/wlsyne/Blog/issues/13)
 
+## 工程化
+- [来写单测吧](https://github.com/wlsyne/Blog/issues/23)
 ## 翻译
 - [Tasks, microtasks, queues and schedules【译】](https://github.com/wlsyne/Blog/issues/4)
