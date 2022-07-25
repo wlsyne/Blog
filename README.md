@@ -8,3 +8,6 @@
 
 ## 基础之础中础
 - [正则表达式相关](https://github.com/wlsyne/Blog/issues/3)
+
+## 一些翻译
+- [Tasks, microtasks, queues and schedules【译】](https://github.com/wlsyne/Blog/issues/4)
