@@ -18,6 +18,9 @@
 - [RXJS 不完全入门](https://github.com/wlsyne/Blog/issues/36)
 - [用 Rxjs 悄悄的实现一个小小的 store](https://github.com/wlsyne/Blog/issues/35)
 
+## Algorithm
+- [广度优先搜索（BFS）与深度优先搜索（DFS）](https://github.com/wlsyne/Blog/issues/41)
+  
 ## 基础之础中础
 - [正则表达式相关](https://github.com/wlsyne/Blog/issues/3)
 - [无用的知识又增加了：原型链、 instanceof 以及 new操作符](https://github.com/wlsyne/Blog/issues/5)
