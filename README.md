@@ -36,5 +36,6 @@
 
 ## 工程化
 - [来写单测吧](https://github.com/wlsyne/Blog/issues/23)
+- [来写 react 单测吧](https://github.com/wlsyne/Blog/issues/24)
 ## 翻译
 - [Tasks, microtasks, queues and schedules【译】](https://github.com/wlsyne/Blog/issues/4)
