@@ -12,6 +12,7 @@
 
 ## React
 - [React setState](https://github.com/wlsyne/Blog/issues/20)
+- [React hooks](https://github.com/wlsyne/Blog/issues/34)
 
 ## 基础之础中础
 - [正则表达式相关](https://github.com/wlsyne/Blog/issues/3)
